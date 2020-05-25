@@ -2,7 +2,7 @@
 Imagini
 ==================
 
-![1](https://github.com/FilosGabriel/TSP-.NET-Project3/tree/master/imagini%20rulare?raw=true)
+![1](https://github.com/FilosGabriel/TSP-.NET-Project3/tree/master/imagini%20rulare/1.png?raw=true)
 
 Video
 =======================
