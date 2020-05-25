@@ -1,4 +1,8 @@
 # TSP-.NET-Project3
+Video
+=======================
+https://drive.google.com/file/d/1Tttg3C4q93f8liDFWdXDG0gkMPxKiZkT/view?usp=sharing 
+
 Imagini
 ==================
 
@@ -19,6 +23,3 @@ Imagini
 ![1](imagini%20rulare/9.png)
 
 
-Video
-=======================
-https://drive.google.com/file/d/1Tttg3C4q93f8liDFWdXDG0gkMPxKiZkT/view?usp=sharing 
