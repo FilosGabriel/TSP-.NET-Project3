@@ -17,7 +17,7 @@
   </ItemGroup>
 <ItemGroup>
     <!-- extends watching group to include *.js files -->
-    <Watch Include="**\*.cs;**\*.js;**\*.json;**\*.html;**.*.md;*wwwroot\css\*" />
+    <Watch Include="**\*.cs;**\*.js;**\*.json;**\*.html;**.*.md;wwwroot\css\*" />
 </ItemGroup>
 
 
